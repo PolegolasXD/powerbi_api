@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect
+from flask import Flask, render_template, request, redirect, Response
 import pandas as pd
 import os
 
@@ -40,6 +40,16 @@ def enviar():
 
         df.to_csv(CSV_PATH, index=False)
         return redirect('/')
+
+@app.route('/dados')
+def dados():
+    if os.path.exists(CSV_PATH):
+        try:
+            df = pd.read_csv(CSV_PATH)
+            return Response(df.to_csv(index=False), mimetype='text/csv')
+        except pd.errors.EmptyDataError:
+            return "CSV vazio"
+    return "Arquivo não encontrado"
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
