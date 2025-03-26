@@ -1,0 +1,34 @@
+body {
+  background-color: #F4F6F9;
+  color: #212121;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #E0E0E0;
+  border-radius: 8px;
+}
+
+.form-control,
+.form-select {
+  border-color: #E0E0E0;
+}
+
+.btn-primary {
+  background-color: #1E88E5;
+  border-color: #1565C0;
+}
+
+.btn-primary:hover {
+  background-color: #1565C0;
+}
+
+h2,
+h4 {
+  color: #1565C0;
+}
+
+.table thead {
+  background-color: #1E88E5;
+  color: white;
+}
