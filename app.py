@@ -16,6 +16,16 @@ def index():
         dados = pd.DataFrame()
     return render_template('form.html', dados=dados)
 
+@app.route('/dados_json')
+def dados_json():
+    if os.path.exists(CSV_PATH):
+        try:
+            df = pd.read_csv(CSV_PATH)
+            return jsonify(df.to_dict(orient="records"))
+        except pd.errors.EmptyDataError:
+            return jsonify([])
+    return jsonify([])
+
 @app.route('/enviar', methods=['POST'])
 def enviar():
     if request.method == 'POST':
