@@ -1,71 +1,281 @@
 Indicador (KPI),Objetivo Estratégico,Perspectiva,Valor,Responsável,Unidade,Observações,Data
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,80.18,Equipe de Vendas,%,Dados simulados,2023-01-01
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,74.3,Equipe de Vendas,%,Dados simulados,2023-01-31
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,87.59,Equipe de Vendas,%,Dados simulados,2023-03-02
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,60.53,Equipe de Vendas,%,Dados simulados,2023-04-01
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,35.19,Equipe de Vendas,%,Dados simulados,2023-05-01
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,17.7,Equipe de Vendas,%,Dados simulados,2023-05-31
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,35.66,Equipe de Vendas,%,Dados simulados,2023-06-30
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,98.08,Equipe de Vendas,%,Dados simulados,2023-07-30
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,95.84,Equipe de Vendas,%,Dados simulados,2023-08-29
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,83.42,Equipe de Vendas,%,Dados simulados,2023-09-28
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,61.49,Equipe de Suporte,NPS,Dados simulados,2023-01-01
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,64.42,Equipe de Suporte,NPS,Dados simulados,2023-01-31
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,23.96,Equipe de Suporte,NPS,Dados simulados,2023-03-02
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,87.57,Equipe de Suporte,NPS,Dados simulados,2023-04-01
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,10.9,Equipe de Suporte,NPS,Dados simulados,2023-05-01
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,67.17,Equipe de Suporte,NPS,Dados simulados,2023-05-31
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,71.51,Equipe de Suporte,NPS,Dados simulados,2023-06-30
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,98.51,Equipe de Suporte,NPS,Dados simulados,2023-07-30
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,88.72,Equipe de Suporte,NPS,Dados simulados,2023-08-29
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,81.51,Equipe de Suporte,NPS,Dados simulados,2023-09-28
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,99.34,Equipe de Marketing,R$,Dados simulados,2023-01-01
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,53.37,Equipe de Marketing,R$,Dados simulados,2023-01-31
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,11.59,Equipe de Marketing,R$,Dados simulados,2023-03-02
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,24.9,Equipe de Marketing,R$,Dados simulados,2023-04-01
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,19.51,Equipe de Marketing,R$,Dados simulados,2023-05-01
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,35.27,Equipe de Marketing,R$,Dados simulados,2023-05-31
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,93.91,Equipe de Marketing,R$,Dados simulados,2023-06-30
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,74.67,Equipe de Marketing,R$,Dados simulados,2023-07-30
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,38.18,Equipe de Marketing,R$,Dados simulados,2023-08-29
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,74.9,Equipe de Marketing,R$,Dados simulados,2023-09-28
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,99.33,Equipe Financeira,%,Dados simulados,2023-01-01
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,33.56,Equipe Financeira,%,Dados simulados,2023-01-31
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,10.69,Equipe Financeira,%,Dados simulados,2023-03-02
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,24.42,Equipe Financeira,%,Dados simulados,2023-04-01
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,86.35,Equipe Financeira,%,Dados simulados,2023-05-01
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,41.44,Equipe Financeira,%,Dados simulados,2023-05-31
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,36.52,Equipe Financeira,%,Dados simulados,2023-06-30
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,29.56,Equipe Financeira,%,Dados simulados,2023-07-30
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,53.85,Equipe Financeira,%,Dados simulados,2023-08-29
-ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,22.01,Equipe Financeira,%,Dados simulados,2023-09-28
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,82.3,Suporte Técnico,Horas,Dados simulados,2023-01-01
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,92.1,Suporte Técnico,Horas,Dados simulados,2023-01-31
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,74.76,Suporte Técnico,Horas,Dados simulados,2023-03-02
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,59.73,Suporte Técnico,Horas,Dados simulados,2023-04-01
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,98.46,Suporte Técnico,Horas,Dados simulados,2023-05-01
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,91.18,Suporte Técnico,Horas,Dados simulados,2023-05-31
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,69.93,Suporte Técnico,Horas,Dados simulados,2023-06-30
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,38.5,Suporte Técnico,Horas,Dados simulados,2023-07-30
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,98.66,Suporte Técnico,Horas,Dados simulados,2023-08-29
-Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,64.51,Suporte Técnico,Horas,Dados simulados,2023-09-28
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,98.62,Recursos Humanos,%,Dados simulados,2023-01-01
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,17.55,Recursos Humanos,%,Dados simulados,2023-01-31
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,45.11,Recursos Humanos,%,Dados simulados,2023-03-02
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,87.88,Recursos Humanos,%,Dados simulados,2023-04-01
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,85.93,Recursos Humanos,%,Dados simulados,2023-05-01
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,74.03,Recursos Humanos,%,Dados simulados,2023-05-31
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,87.61,Recursos Humanos,%,Dados simulados,2023-06-30
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,12.46,Recursos Humanos,%,Dados simulados,2023-07-30
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,64.05,Recursos Humanos,%,Dados simulados,2023-08-29
-Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,73.53,Recursos Humanos,%,Dados simulados,2023-09-28
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,47.54,Treinadores,%,Dados simulados,2023-01-01
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,41.6,Treinadores,%,Dados simulados,2023-01-31
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,36.43,Treinadores,%,Dados simulados,2023-03-02
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,54.52,Treinadores,%,Dados simulados,2023-04-01
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,13.07,Treinadores,%,Dados simulados,2023-05-01
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,14.52,Treinadores,%,Dados simulados,2023-05-31
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,46.67,Treinadores,%,Dados simulados,2023-06-30
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,63.41,Treinadores,%,Dados simulados,2023-07-30
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,72.39,Treinadores,%,Dados simulados,2023-08-29
-Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,34.4,Treinadores,%,Dados simulados,2023-09-28
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,83.19,Equipe de Vendas,%,Dados simulados,2021-01-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,81.21,Equipe de Vendas,%,Dados simulados,2021-01-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,52.46,Equipe de Vendas,%,Dados simulados,2021-03-02
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,62.36,Equipe de Vendas,%,Dados simulados,2021-04-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,45.0,Equipe de Vendas,%,Dados simulados,2021-05-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,33.14,Equipe de Vendas,%,Dados simulados,2021-05-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,31.03,Equipe de Vendas,%,Dados simulados,2021-06-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,75.67,Equipe de Vendas,%,Dados simulados,2021-07-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,64.97,Equipe de Vendas,%,Dados simulados,2021-08-29
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,75.48,Equipe de Vendas,%,Dados simulados,2021-09-28
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,86.14,Equipe de Vendas,%,Dados simulados,2022-01-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,83.78,Equipe de Vendas,%,Dados simulados,2022-01-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,40.37,Equipe de Vendas,%,Dados simulados,2022-03-02
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,68.02,Equipe de Vendas,%,Dados simulados,2022-04-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,15.65,Equipe de Vendas,%,Dados simulados,2022-05-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,12.68,Equipe de Vendas,%,Dados simulados,2022-05-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,66.66,Equipe de Vendas,%,Dados simulados,2022-06-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,57.01,Equipe de Vendas,%,Dados simulados,2022-07-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,49.27,Equipe de Vendas,%,Dados simulados,2022-08-29
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,60.43,Equipe de Vendas,%,Dados simulados,2022-09-28
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,13.75,Equipe de Vendas,%,Dados simulados,2023-01-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,38.86,Equipe de Vendas,%,Dados simulados,2023-01-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,88.32,Equipe de Vendas,%,Dados simulados,2023-03-02
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,89.71,Equipe de Vendas,%,Dados simulados,2023-04-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,21.26,Equipe de Vendas,%,Dados simulados,2023-05-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,64.36,Equipe de Vendas,%,Dados simulados,2023-05-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,94.92,Equipe de Vendas,%,Dados simulados,2023-06-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,85.52,Equipe de Vendas,%,Dados simulados,2023-07-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,62.46,Equipe de Vendas,%,Dados simulados,2023-08-29
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,54.74,Equipe de Vendas,%,Dados simulados,2023-09-28
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,77.6,Equipe de Vendas,%,Dados simulados,2024-01-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,51.63,Equipe de Vendas,%,Dados simulados,2024-01-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,28.77,Equipe de Vendas,%,Dados simulados,2024-03-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,69.77,Equipe de Vendas,%,Dados simulados,2024-03-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,66.02,Equipe de Vendas,%,Dados simulados,2024-04-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,23.3,Equipe de Vendas,%,Dados simulados,2024-05-30
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,11.63,Equipe de Vendas,%,Dados simulados,2024-06-29
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,56.8,Equipe de Vendas,%,Dados simulados,2024-07-29
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,62.67,Equipe de Vendas,%,Dados simulados,2024-08-28
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,37.17,Equipe de Vendas,%,Dados simulados,2024-09-27
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,38.36,Equipe de Suporte,NPS,Dados simulados,2021-01-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,62.4,Equipe de Suporte,NPS,Dados simulados,2021-01-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,31.67,Equipe de Suporte,NPS,Dados simulados,2021-03-02
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,44.91,Equipe de Suporte,NPS,Dados simulados,2021-04-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,98.95,Equipe de Suporte,NPS,Dados simulados,2021-05-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,56.95,Equipe de Suporte,NPS,Dados simulados,2021-05-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,94.99,Equipe de Suporte,NPS,Dados simulados,2021-06-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,66.71,Equipe de Suporte,NPS,Dados simulados,2021-07-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,16.19,Equipe de Suporte,NPS,Dados simulados,2021-08-29
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,23.65,Equipe de Suporte,NPS,Dados simulados,2021-09-28
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,68.2,Equipe de Suporte,NPS,Dados simulados,2022-01-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,61.35,Equipe de Suporte,NPS,Dados simulados,2022-01-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,75.3,Equipe de Suporte,NPS,Dados simulados,2022-03-02
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,84.33,Equipe de Suporte,NPS,Dados simulados,2022-04-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,16.32,Equipe de Suporte,NPS,Dados simulados,2022-05-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,19.39,Equipe de Suporte,NPS,Dados simulados,2022-05-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,35.63,Equipe de Suporte,NPS,Dados simulados,2022-06-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,47.63,Equipe de Suporte,NPS,Dados simulados,2022-07-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,36.27,Equipe de Suporte,NPS,Dados simulados,2022-08-29
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,63.41,Equipe de Suporte,NPS,Dados simulados,2022-09-28
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,91.04,Equipe de Suporte,NPS,Dados simulados,2023-01-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,95.26,Equipe de Suporte,NPS,Dados simulados,2023-01-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,56.24,Equipe de Suporte,NPS,Dados simulados,2023-03-02
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,67.37,Equipe de Suporte,NPS,Dados simulados,2023-04-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,85.81,Equipe de Suporte,NPS,Dados simulados,2023-05-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,70.52,Equipe de Suporte,NPS,Dados simulados,2023-05-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,44.19,Equipe de Suporte,NPS,Dados simulados,2023-06-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,53.11,Equipe de Suporte,NPS,Dados simulados,2023-07-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,23.35,Equipe de Suporte,NPS,Dados simulados,2023-08-29
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,75.17,Equipe de Suporte,NPS,Dados simulados,2023-09-28
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,38.62,Equipe de Suporte,NPS,Dados simulados,2024-01-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,67.27,Equipe de Suporte,NPS,Dados simulados,2024-01-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,43.26,Equipe de Suporte,NPS,Dados simulados,2024-03-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,93.62,Equipe de Suporte,NPS,Dados simulados,2024-03-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,82.87,Equipe de Suporte,NPS,Dados simulados,2024-04-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,57.84,Equipe de Suporte,NPS,Dados simulados,2024-05-30
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,70.52,Equipe de Suporte,NPS,Dados simulados,2024-06-29
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,23.07,Equipe de Suporte,NPS,Dados simulados,2024-07-29
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,40.37,Equipe de Suporte,NPS,Dados simulados,2024-08-28
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,77.2,Equipe de Suporte,NPS,Dados simulados,2024-09-27
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,96.42,Equipe de Marketing,R$,Dados simulados,2021-01-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,95.94,Equipe de Marketing,R$,Dados simulados,2021-01-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,12.02,Equipe de Marketing,R$,Dados simulados,2021-03-02
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,19.32,Equipe de Marketing,R$,Dados simulados,2021-04-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,53.16,Equipe de Marketing,R$,Dados simulados,2021-05-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,28.62,Equipe de Marketing,R$,Dados simulados,2021-05-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,48.43,Equipe de Marketing,R$,Dados simulados,2021-06-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,33.51,Equipe de Marketing,R$,Dados simulados,2021-07-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,49.59,Equipe de Marketing,R$,Dados simulados,2021-08-29
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,52.64,Equipe de Marketing,R$,Dados simulados,2021-09-28
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,13.0,Equipe de Marketing,R$,Dados simulados,2022-01-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,97.89,Equipe de Marketing,R$,Dados simulados,2022-01-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,99.07,Equipe de Marketing,R$,Dados simulados,2022-03-02
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,25.01,Equipe de Marketing,R$,Dados simulados,2022-04-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,39.64,Equipe de Marketing,R$,Dados simulados,2022-05-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,37.14,Equipe de Marketing,R$,Dados simulados,2022-05-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,26.29,Equipe de Marketing,R$,Dados simulados,2022-06-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,96.15,Equipe de Marketing,R$,Dados simulados,2022-07-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,17.5,Equipe de Marketing,R$,Dados simulados,2022-08-29
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,78.44,Equipe de Marketing,R$,Dados simulados,2022-09-28
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,76.53,Equipe de Marketing,R$,Dados simulados,2023-01-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,53.49,Equipe de Marketing,R$,Dados simulados,2023-01-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,99.49,Equipe de Marketing,R$,Dados simulados,2023-03-02
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,19.67,Equipe de Marketing,R$,Dados simulados,2023-04-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,93.73,Equipe de Marketing,R$,Dados simulados,2023-05-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,86.34,Equipe de Marketing,R$,Dados simulados,2023-05-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,20.11,Equipe de Marketing,R$,Dados simulados,2023-06-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,38.26,Equipe de Marketing,R$,Dados simulados,2023-07-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,37.91,Equipe de Marketing,R$,Dados simulados,2023-08-29
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,82.51,Equipe de Marketing,R$,Dados simulados,2023-09-28
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,81.27,Equipe de Marketing,R$,Dados simulados,2024-01-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,90.98,Equipe de Marketing,R$,Dados simulados,2024-01-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,22.65,Equipe de Marketing,R$,Dados simulados,2024-03-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,48.92,Equipe de Marketing,R$,Dados simulados,2024-03-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,70.79,Equipe de Marketing,R$,Dados simulados,2024-04-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,17.72,Equipe de Marketing,R$,Dados simulados,2024-05-30
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,18.8,Equipe de Marketing,R$,Dados simulados,2024-06-29
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,12.95,Equipe de Marketing,R$,Dados simulados,2024-07-29
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,50.88,Equipe de Marketing,R$,Dados simulados,2024-08-28
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,23.62,Equipe de Marketing,R$,Dados simulados,2024-09-27
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,12.23,Equipe Financeira,%,Dados simulados,2021-01-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,23.27,Equipe Financeira,%,Dados simulados,2021-01-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,52.73,Equipe Financeira,%,Dados simulados,2021-03-02
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,57.38,Equipe Financeira,%,Dados simulados,2021-04-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,26.22,Equipe Financeira,%,Dados simulados,2021-05-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,70.98,Equipe Financeira,%,Dados simulados,2021-05-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,76.11,Equipe Financeira,%,Dados simulados,2021-06-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,86.02,Equipe Financeira,%,Dados simulados,2021-07-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,44.52,Equipe Financeira,%,Dados simulados,2021-08-29
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,74.58,Equipe Financeira,%,Dados simulados,2021-09-28
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,86.96,Equipe Financeira,%,Dados simulados,2022-01-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,91.78,Equipe Financeira,%,Dados simulados,2022-01-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,44.1,Equipe Financeira,%,Dados simulados,2022-03-02
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,53.57,Equipe Financeira,%,Dados simulados,2022-04-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,33.88,Equipe Financeira,%,Dados simulados,2022-05-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,11.37,Equipe Financeira,%,Dados simulados,2022-05-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,89.49,Equipe Financeira,%,Dados simulados,2022-06-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,80.91,Equipe Financeira,%,Dados simulados,2022-07-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,25.06,Equipe Financeira,%,Dados simulados,2022-08-29
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,95.65,Equipe Financeira,%,Dados simulados,2022-09-28
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,35.85,Equipe Financeira,%,Dados simulados,2023-01-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,46.46,Equipe Financeira,%,Dados simulados,2023-01-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,48.39,Equipe Financeira,%,Dados simulados,2023-03-02
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,65.15,Equipe Financeira,%,Dados simulados,2023-04-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,20.88,Equipe Financeira,%,Dados simulados,2023-05-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,67.78,Equipe Financeira,%,Dados simulados,2023-05-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,28.86,Equipe Financeira,%,Dados simulados,2023-06-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,26.96,Equipe Financeira,%,Dados simulados,2023-07-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,26.59,Equipe Financeira,%,Dados simulados,2023-08-29
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,76.79,Equipe Financeira,%,Dados simulados,2023-09-28
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,44.6,Equipe Financeira,%,Dados simulados,2024-01-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,64.77,Equipe Financeira,%,Dados simulados,2024-01-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,24.12,Equipe Financeira,%,Dados simulados,2024-03-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,53.92,Equipe Financeira,%,Dados simulados,2024-03-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,96.28,Equipe Financeira,%,Dados simulados,2024-04-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,66.94,Equipe Financeira,%,Dados simulados,2024-05-30
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,13.95,Equipe Financeira,%,Dados simulados,2024-06-29
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,62.36,Equipe Financeira,%,Dados simulados,2024-07-29
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,46.0,Equipe Financeira,%,Dados simulados,2024-08-28
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,17.43,Equipe Financeira,%,Dados simulados,2024-09-27
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,10.94,Suporte Técnico,Horas,Dados simulados,2021-01-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,70.42,Suporte Técnico,Horas,Dados simulados,2021-01-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,83.1,Suporte Técnico,Horas,Dados simulados,2021-03-02
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,19.24,Suporte Técnico,Horas,Dados simulados,2021-04-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,87.88,Suporte Técnico,Horas,Dados simulados,2021-05-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,49.75,Suporte Técnico,Horas,Dados simulados,2021-05-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,13.44,Suporte Técnico,Horas,Dados simulados,2021-06-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,99.04,Suporte Técnico,Horas,Dados simulados,2021-07-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,45.27,Suporte Técnico,Horas,Dados simulados,2021-08-29
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,14.2,Suporte Técnico,Horas,Dados simulados,2021-09-28
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,85.67,Suporte Técnico,Horas,Dados simulados,2022-01-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,82.87,Suporte Técnico,Horas,Dados simulados,2022-01-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,47.37,Suporte Técnico,Horas,Dados simulados,2022-03-02
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,94.15,Suporte Técnico,Horas,Dados simulados,2022-04-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,28.13,Suporte Técnico,Horas,Dados simulados,2022-05-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,78.19,Suporte Técnico,Horas,Dados simulados,2022-05-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,88.08,Suporte Técnico,Horas,Dados simulados,2022-06-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,30.73,Suporte Técnico,Horas,Dados simulados,2022-07-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,16.4,Suporte Técnico,Horas,Dados simulados,2022-08-29
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,40.69,Suporte Técnico,Horas,Dados simulados,2022-09-28
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,95.65,Suporte Técnico,Horas,Dados simulados,2023-01-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,40.88,Suporte Técnico,Horas,Dados simulados,2023-01-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,92.29,Suporte Técnico,Horas,Dados simulados,2023-03-02
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,77.06,Suporte Técnico,Horas,Dados simulados,2023-04-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,47.76,Suporte Técnico,Horas,Dados simulados,2023-05-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,81.75,Suporte Técnico,Horas,Dados simulados,2023-05-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,71.3,Suporte Técnico,Horas,Dados simulados,2023-06-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,97.55,Suporte Técnico,Horas,Dados simulados,2023-07-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,76.12,Suporte Técnico,Horas,Dados simulados,2023-08-29
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,57.55,Suporte Técnico,Horas,Dados simulados,2023-09-28
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,89.48,Suporte Técnico,Horas,Dados simulados,2024-01-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,44.46,Suporte Técnico,Horas,Dados simulados,2024-01-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,17.12,Suporte Técnico,Horas,Dados simulados,2024-03-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,47.21,Suporte Técnico,Horas,Dados simulados,2024-03-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,71.93,Suporte Técnico,Horas,Dados simulados,2024-04-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,70.54,Suporte Técnico,Horas,Dados simulados,2024-05-30
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,33.89,Suporte Técnico,Horas,Dados simulados,2024-06-29
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,36.14,Suporte Técnico,Horas,Dados simulados,2024-07-29
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,43.99,Suporte Técnico,Horas,Dados simulados,2024-08-28
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,51.16,Suporte Técnico,Horas,Dados simulados,2024-09-27
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,80.11,Recursos Humanos,%,Dados simulados,2021-01-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,96.67,Recursos Humanos,%,Dados simulados,2021-01-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,91.17,Recursos Humanos,%,Dados simulados,2021-03-02
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,49.63,Recursos Humanos,%,Dados simulados,2021-04-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,37.07,Recursos Humanos,%,Dados simulados,2021-05-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,85.39,Recursos Humanos,%,Dados simulados,2021-05-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,86.63,Recursos Humanos,%,Dados simulados,2021-06-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,98.49,Recursos Humanos,%,Dados simulados,2021-07-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,52.99,Recursos Humanos,%,Dados simulados,2021-08-29
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,68.37,Recursos Humanos,%,Dados simulados,2021-09-28
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,13.15,Recursos Humanos,%,Dados simulados,2022-01-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,49.15,Recursos Humanos,%,Dados simulados,2022-01-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,39.56,Recursos Humanos,%,Dados simulados,2022-03-02
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,63.86,Recursos Humanos,%,Dados simulados,2022-04-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,88.51,Recursos Humanos,%,Dados simulados,2022-05-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,16.27,Recursos Humanos,%,Dados simulados,2022-05-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,67.7,Recursos Humanos,%,Dados simulados,2022-06-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,11.12,Recursos Humanos,%,Dados simulados,2022-07-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,91.46,Recursos Humanos,%,Dados simulados,2022-08-29
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,19.41,Recursos Humanos,%,Dados simulados,2022-09-28
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,55.39,Recursos Humanos,%,Dados simulados,2023-01-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,45.38,Recursos Humanos,%,Dados simulados,2023-01-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,19.27,Recursos Humanos,%,Dados simulados,2023-03-02
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,66.65,Recursos Humanos,%,Dados simulados,2023-04-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,57.07,Recursos Humanos,%,Dados simulados,2023-05-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,41.85,Recursos Humanos,%,Dados simulados,2023-05-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,77.02,Recursos Humanos,%,Dados simulados,2023-06-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,70.89,Recursos Humanos,%,Dados simulados,2023-07-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,29.58,Recursos Humanos,%,Dados simulados,2023-08-29
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,44.08,Recursos Humanos,%,Dados simulados,2023-09-28
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,92.1,Recursos Humanos,%,Dados simulados,2024-01-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,85.02,Recursos Humanos,%,Dados simulados,2024-01-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,94.79,Recursos Humanos,%,Dados simulados,2024-03-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,31.38,Recursos Humanos,%,Dados simulados,2024-03-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,83.11,Recursos Humanos,%,Dados simulados,2024-04-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,52.84,Recursos Humanos,%,Dados simulados,2024-05-30
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,26.85,Recursos Humanos,%,Dados simulados,2024-06-29
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,25.32,Recursos Humanos,%,Dados simulados,2024-07-29
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,48.74,Recursos Humanos,%,Dados simulados,2024-08-28
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,17.5,Recursos Humanos,%,Dados simulados,2024-09-27
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,68.4,Treinadores,%,Dados simulados,2021-01-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,54.8,Treinadores,%,Dados simulados,2021-01-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,95.47,Treinadores,%,Dados simulados,2021-03-02
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,57.62,Treinadores,%,Dados simulados,2021-04-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,37.49,Treinadores,%,Dados simulados,2021-05-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,23.75,Treinadores,%,Dados simulados,2021-05-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,91.92,Treinadores,%,Dados simulados,2021-06-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,91.36,Treinadores,%,Dados simulados,2021-07-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,12.36,Treinadores,%,Dados simulados,2021-08-29
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,14.07,Treinadores,%,Dados simulados,2021-09-28
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,11.55,Treinadores,%,Dados simulados,2022-01-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,43.66,Treinadores,%,Dados simulados,2022-01-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,46.24,Treinadores,%,Dados simulados,2022-03-02
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,93.88,Treinadores,%,Dados simulados,2022-04-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,59.0,Treinadores,%,Dados simulados,2022-05-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,39.82,Treinadores,%,Dados simulados,2022-05-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,24.62,Treinadores,%,Dados simulados,2022-06-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,92.24,Treinadores,%,Dados simulados,2022-07-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,21.99,Treinadores,%,Dados simulados,2022-08-29
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,76.69,Treinadores,%,Dados simulados,2022-09-28
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,46.65,Treinadores,%,Dados simulados,2023-01-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,42.99,Treinadores,%,Dados simulados,2023-01-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,38.75,Treinadores,%,Dados simulados,2023-03-02
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,13.39,Treinadores,%,Dados simulados,2023-04-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,40.25,Treinadores,%,Dados simulados,2023-05-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,96.07,Treinadores,%,Dados simulados,2023-05-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,43.29,Treinadores,%,Dados simulados,2023-06-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,36.31,Treinadores,%,Dados simulados,2023-07-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,35.47,Treinadores,%,Dados simulados,2023-08-29
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,70.5,Treinadores,%,Dados simulados,2023-09-28
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,74.85,Treinadores,%,Dados simulados,2024-01-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,32.21,Treinadores,%,Dados simulados,2024-01-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,21.53,Treinadores,%,Dados simulados,2024-03-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,26.53,Treinadores,%,Dados simulados,2024-03-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,30.57,Treinadores,%,Dados simulados,2024-04-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,72.42,Treinadores,%,Dados simulados,2024-05-30
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,17.38,Treinadores,%,Dados simulados,2024-06-29
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,57.42,Treinadores,%,Dados simulados,2024-07-29
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,54.74,Treinadores,%,Dados simulados,2024-08-28
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,37.86,Treinadores,%,Dados simulados,2024-09-27
