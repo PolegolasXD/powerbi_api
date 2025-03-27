@@ -2,106 +2,88 @@
 <html lang="pt-br">
 
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Gestão de KPIs</title>
-  <link rel="stylesheet" href="/static/style.css">
-  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="/static/style.css" />
 </head>
 
 <body>
   <div class="container">
     <header>
       <h1>Gestão de Indicadores (KPI)</h1>
-      <button class="theme-toggle" onclick="toggleDarkMode()">🌙</button>
+      <button class="theme-toggle" onclick="toggleTheme()" title="Alternar tema">🌙</button>
     </header>
 
-    <div id="success-message" class="hidden success">✅ KPI salvo com sucesso!</div>
-
-    <!-- Passo 1: Formulário -->
-    <div id="form-step" class="card fade active">
-      <h2>Cadastro de Indicadores</h2>
-      <form action="/enviar" method="POST" onsubmit="return exibirMensagem()">
-        <input type="text" name="kpi" placeholder="Indicador (KPI)" required>
-        <input type="text" name="objetivo" placeholder="Objetivo Estratégico" required>
-        <select name="perspectiva" required>
-          <option value="">Selecione a Perspectiva</option>
-          <option value="Clientes">Clientes</option>
-          <option value="Financeira">Financeira</option>
-          <option value="Processos Internos">Processos Internos</option>
-          <option value="Aprendizado e Crescimento">Aprendizado e Crescimento</option>
-        </select>
-        <input type="number" name="valor" placeholder="Valor" step="any" required>
-        <input type="text" name="responsavel" placeholder="Responsável" required>
-        <input type="text" name="unidade" placeholder="Unidade (%, R$, Horas etc.)" required>
-        <textarea name="observacoes" placeholder="Observações..."></textarea>
-
-        <button class="btn" type="submit">
-          <i data-lucide="save"></i> Salvar KPI
-        </button>
-      </form>
-      <button class="btn alt" onclick="mostrarTabela()">
-        <i data-lucide="table"></i> Ver Tabela
-      </button>
-    </div>
-
-    <!-- Passo 2: Tabela -->
-    <div id="tabela-step" class="card fade hidden">
-      <h2>KPIs Cadastrados</h2>
-      {% if dados is not none and not dados.empty %}
-      <div class="table-wrapper">
-        <table>
-          <thead>
-            <tr>
-              {% for coluna in dados.columns %}
-              <th>{{ coluna }}</th>
-              {% endfor %}
-            </tr>
-          </thead>
-          <tbody>
-            {% for _, linha in dados.iterrows() %}
-            <tr>
-              {% for valor in linha %}
-              <td>{{ valor }}</td>
-              {% endfor %}
-            </tr>
-            {% endfor %}
-          </tbody>
-        </table>
+    <div class="grid-layout">
+      <!-- Lado esquerdo: Formulário -->
+      <div class="card form-panel">
+        <h2>Cadastro de Indicadores</h2>
+        <form action="/enviar" method="POST">
+          <input type="text" name="kpi" placeholder="Indicador (KPI)" required />
+          <input type="text" name="objetivo" placeholder="Objetivo Estratégico" required />
+          <select name="perspectiva" required>
+            <option value="">Selecione a Perspectiva</option>
+            <option value="Clientes">Clientes</option>
+            <option value="Financeira">Financeira</option>
+            <option value="Processos Internos">Processos Internos</option>
+            <option value="Aprendizado e Crescimento">Aprendizado e Crescimento</option>
+          </select>
+          <input type="number" name="valor" placeholder="Valor" step="any" required />
+          <input type="text" name="responsavel" placeholder="Responsável" required />
+          <input type="text" name="unidade" placeholder="Unidade (%, R$, Horas etc.)" required />
+          <textarea name="observacoes" placeholder="Observações..."></textarea>
+          <button class="btn" type="submit">Salvar KPI</button>
+        </form>
+        <button id="btn-ver-tabela" class="btn alt">Ver Tabela</button>
+        <button id="btn-ver-powerbi" class="btn alt">Ver Dashboard Power BI</button>
       </div>
-      {% else %}
-      <p>Nenhum KPI cadastrado ainda.</p>
-      {% endif %}
-      <button class="btn alt" onclick="mostrarFormulario()">
-        <i data-lucide="arrow-left"></i> Voltar
-      </button>
+
+      <!-- Lado direito: Conteúdo dinâmico -->
+      <div class="card content-panel">
+        <!-- Tabela -->
+        <div id="tabela-step" class="fade hidden">
+          <h2>KPIs Cadastrados</h2>
+          {% if dados is not none and not dados.empty %}
+          <div class="table-wrapper">
+            <table>
+              <thead>
+                <tr>
+                  {% for coluna in dados.columns %}
+                  <th>{{ coluna }}</th>
+                  {% endfor %}
+                </tr>
+              </thead>
+              <tbody>
+                {% for _, linha in dados.iterrows() %}
+                <tr>
+                  {% for valor in linha %}
+                  <td>{{ valor }}</td>
+                  {% endfor %}
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+          {% else %}
+          <p>Nenhum KPI cadastrado ainda.</p>
+          {% endif %}
+          <button id="btn-voltar-tabela" class="btn alt">Voltar</button>
+        </div>
+
+        <!-- Power BI -->
+        <div id="powerbi-embed" class="fade hidden">
+          <h2>Dashboard Power BI</h2>
+          <iframe title="ProjetoGestaoTI" width="100%" height="400"
+            src="https://app.powerbi.com/view?r=eyJrIjoiNTRjMWQwNDMtODJlMC00ZDMwLTg5OWYtMjJjYWY3ODg5NTZiIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9"
+            frameborder="0" allowfullscreen="true"></iframe>
+          <button id="btn-voltar-powerbi" class="btn alt">Voltar</button>
+        </div>
+      </div>
     </div>
   </div>
 
-  <script>
-    lucide.createIcons();
-
-    function mostrarTabela() {
-      document.getElementById('form-step').classList.add('hidden')
-      document.getElementById('tabela-step').classList.remove('hidden')
-    }
-
-    function mostrarFormulario() {
-      document.getElementById('tabela-step').classList.add('hidden')
-      document.getElementById('form-step').classList.remove('hidden')
-    }
-
-    function exibirMensagem() {
-      const msg = document.getElementById("success-message")
-      msg.classList.remove("hidden")
-      setTimeout(() => msg.classList.add("hidden"), 3000)
-      return true
-    }
-
-    function toggleDarkMode() {
-      document.body.classList.toggle("dark")
-    }
-  </script>
-  <script src="/static/script.js"></script>
+  <script defer src="/static/script.js"></script>
 </body>
 
 </html>
