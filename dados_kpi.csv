@@ -1,8 +1,29 @@
-Indicador (KPI),Objetivo Estratégico,Perspectiva,Valor,Responsável,Unidade,Observações
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,92,Equipe de Suporte,NPS,Resultado da pesquisa no 1º trimestre
-Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,18.7,Equipe de Vendas,%,Dados do último mês
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,320,Equipe de Marketing,R$,Média trimestral
-Índice de satisfação do funcionário,Melhorar o ambiente de trabalho,Aprendizado e Crescimento,83,Recursos Humanos,%,Pesquisa anual
-Tempo médio de resolução de tickets,Agilizar o atendimento ao cliente,Processos Internos,3.5,Equipe de Suporte,Horas,Média mensal
-Taxa de retenção de clientes,Fidelizar a base de clientes,Clientes,95,Equipe de Relacionamento,%,Dados do último semestre
-Retorno sobre investimento (ROI),Maximizar a rentabilidade dos projetos,Financeira,19.2,Equipe Financeira,%,Análise anual
+Indicador (KPI),Objetivo Estratégico,Perspectiva,Valor,Responsável,Unidade,Observações,Data
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,75.93,Equipe de Vendas,%,Dados simulados,2025-01-01
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,13.38,Equipe de Vendas,%,Dados simulados,2025-01-16
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,60.29,Equipe de Vendas,%,Dados simulados,2025-01-31
+Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,43.21,Equipe de Vendas,%,Dados simulados,2025-02-15
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,66.81,Equipe de Suporte,NPS,Dados simulados,2025-01-01
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,66.36,Equipe de Suporte,NPS,Dados simulados,2025-01-16
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,59.35,Equipe de Suporte,NPS,Dados simulados,2025-01-31
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,12.91,Equipe de Suporte,NPS,Dados simulados,2025-02-15
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,98.19,Equipe de Marketing,R$,Dados simulados,2025-01-01
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,53.89,Equipe de Marketing,R$,Dados simulados,2025-01-16
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,89.57,Equipe de Marketing,R$,Dados simulados,2025-01-31
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,72.85,Equipe de Marketing,R$,Dados simulados,2025-02-15
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,33.67,Equipe Financeira,%,Dados simulados,2025-01-01
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,81.23,Equipe Financeira,%,Dados simulados,2025-01-16
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,59.89,Equipe Financeira,%,Dados simulados,2025-01-31
+ROI da campanha de marketing,Maximizar retorno sobre investimento,Financeira,91.58,Equipe Financeira,%,Dados simulados,2025-02-15
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,78.83,Suporte Técnico,Horas,Dados simulados,2025-01-01
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,71.17,Suporte Técnico,Horas,Dados simulados,2025-01-16
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,95.44,Suporte Técnico,Horas,Dados simulados,2025-01-31
+Tempo médio de atendimento,Reduzir tempo de resposta,Processos Internos,34.18,Suporte Técnico,Horas,Dados simulados,2025-02-15
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,78.76,Recursos Humanos,%,Dados simulados,2025-01-01
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,12.29,Recursos Humanos,%,Dados simulados,2025-01-16
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,73.93,Recursos Humanos,%,Dados simulados,2025-01-31
+Índice de engajamento interno,Melhorar clima organizacional,Aprendizado e Crescimento,41.91,Recursos Humanos,%,Dados simulados,2025-02-15
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,47.31,Treinadores,%,Dados simulados,2025-01-01
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,66.81,Treinadores,%,Dados simulados,2025-01-16
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,40.52,Treinadores,%,Dados simulados,2025-01-31
+Índice de evolução de usuários,Incentivar progresso dos alunos,Aprendizado e Crescimento,76.48,Treinadores,%,Dados simulados,2025-02-15

@@ -1,3 +1,4 @@
+<!-- form.html atualizado -->
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -6,6 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Gestão de KPIs</title>
   <link rel="stylesheet" href="/static/style.css" />
+  <style>
+    .row-flex {
+      display: flex;
+      gap: 2%;
+    }
+    .row-flex > * {
+      flex: 1;
+    }
+  </style>
 </head>
 
 <body>
@@ -22,17 +32,20 @@
         <form action="/enviar" method="POST">
           <input type="text" name="kpi" placeholder="Indicador (KPI)" required />
           <input type="text" name="objetivo" placeholder="Objetivo Estratégico" required />
-          <select name="perspectiva" required>
-            <option value="">Selecione a Perspectiva</option>
-            <option value="Clientes">Clientes</option>
-            <option value="Financeira">Financeira</option>
-            <option value="Processos Internos">Processos Internos</option>
-            <option value="Aprendizado e Crescimento">Aprendizado e Crescimento</option>
-          </select>
           <input type="number" name="valor" placeholder="Valor" step="any" required />
           <input type="text" name="responsavel" placeholder="Responsável" required />
           <input type="text" name="unidade" placeholder="Unidade (%, R$, Horas etc.)" required />
           <textarea name="observacoes" placeholder="Observações..."></textarea>
+          <div class="row-flex">
+            <select name="perspectiva" required>
+              <option value="">Selecione a Perspectiva</option>
+              <option value="Clientes">Clientes</option>
+              <option value="Financeira">Financeira</option>
+              <option value="Processos Internos">Processos Internos</option>
+              <option value="Aprendizado e Crescimento">Aprendizado e Crescimento</option>
+            </select>
+            <input type="date" name="data" required />
+          </div>
           <button class="btn" type="submit">Salvar KPI</button>
         </form>
         <button id="btn-ver-tabela" class="btn alt">Ver Tabela</button>
