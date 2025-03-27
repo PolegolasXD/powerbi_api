@@ -1,0 +1,16 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos temporários
+*.swp
+
+# Ignorar a pasta do ambiente virtual (caso esteja usando)
+venv/
+env/
+
+# Ignorar arquivos de backup do editor (se estiver usando o VSCode, por exemplo)
+.vscode/

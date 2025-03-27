@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect, Response
+from flask import Flask, render_template, request, redirect, Response, jsonify
 import pandas as pd
 import os
 
@@ -50,6 +50,17 @@ def dados():
         except pd.errors.EmptyDataError:
             return "CSV vazio"
     return "Arquivo não encontrado"
+
+@app.route('/limpar_tabela', methods=['POST'])
+def limpar_tabela():
+    try:
+        if os.path.exists(CSV_PATH):
+            os.remove(CSV_PATH)  # Remove o arquivo CSV
+            return jsonify({"message": "Tabela limpa com sucesso!"}), 200
+        else:
+            return jsonify({"message": "Arquivo não encontrado para limpeza."}), 400
+    except Exception as e:
+        return jsonify({"message": f"Ocorreu um erro ao limpar a tabela: {str(e)}"}), 500
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))

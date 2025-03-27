@@ -1,16 +1,8 @@
 Indicador (KPI),Objetivo Estratégico,Perspectiva,Valor,Responsável,Unidade,Observações
-Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,85.0,Equipe de Suporte,NPS,Resultado da pesquisa no 1º trimestre
+Satisfação do cliente (NPS),Melhorar a experiência do cliente,Clientes,85,Equipe de Suporte,NPS,Resultado da pesquisa no 1º trimestre
 Taxa de conversão de vendas,Aumentar a eficiência comercial,Processos Internos,12.5,Equipe de Vendas,%,Dados do último mês
-Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,450.0,Equipe de Marketing,R$,Média trimestral
-Índice de satisfação do funcionário,Melhorar o ambiente de trabalho,Aprendizado e Crescimento,78.0,Recursos Humanos,%,Pesquisa anual
+Custo por aquisição de cliente (CAC),Otimizar investimentos em marketing,Financeira,450,Equipe de Marketing,R$,Média trimestral
+Índice de satisfação do funcionário,Melhorar o ambiente de trabalho,Aprendizado e Crescimento,78,Recursos Humanos,%,Pesquisa anual
 Tempo médio de resolução de tickets,Agilizar o atendimento ao cliente,Processos Internos,4.2,Equipe de Suporte,Horas,Média mensal
-Taxa de retenção de clientes,Fidelizar a base de clientes,Clientes,90.0,Equipe de Relacionamento,%,Dados do último semestre
-Retorno sobre investimento (ROI),Maximizar a rentabilidade dos projetos,Financeira,15.0,Equipe Financeira,%,Análise anual
-Engajamento com a marca,Aumentar a lealdade dos clientes,Clientes,70.0,Equipe de Marketing,%,Resultado da pesquisa anual
-Tempo de onboarding de funcionários,Reduzir o tempo de integração,Processos Internos,10.0,Equipe de RH,dias,Média do último trimestre
-Compliance com normas,Reduzir riscos e aumentar conformidade,Financeira,98.5,Equipe Jurídica,%,Auditoria interna
-Eficiência operacional,Otimizar processos internos,Processos Internos,88.0,Equipe de Operações,%,Análise trimestral
-Índice de inovação,Estimular cultura de inovação,Aprendizado e Crescimento,65.0,Equipe de P&D,%,Relatório anual
-Acuracidade de previsões financeiras,Melhorar a gestão orçamentária,Financeira,92.0,Equipe Financeira,%,Resultado de Q4
-Satisfação com treinamentos internos,Melhorar capacitação da equipe,Aprendizado e Crescimento,81.0,Equipe de T&D,%,Feedbacks dos participantes
-Churn de clientes,Reduzir cancelamentos,Clientes,5.2,Equipe de Suporte,%,Média mensal
+Taxa de retenção de clientes,Fidelizar a base de clientes,Clientes,90,Equipe de Relacionamento,%,Dados do último semestre
+Retorno sobre investimento (ROI),Maximizar a rentabilidade dos projetos,Financeira,15,Equipe Financeira,%,Análise anual

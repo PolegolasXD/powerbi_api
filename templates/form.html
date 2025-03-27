@@ -36,12 +36,11 @@
           <button class="btn" type="submit">Salvar KPI</button>
         </form>
         <button id="btn-ver-tabela" class="btn alt">Ver Tabela</button>
+        <button id="btn-limpar-tabela" class="btn alt">Limpar Tabela</button>
         <button id="btn-ver-powerbi" class="btn alt">Ver Dashboard Power BI</button>
       </div>
 
-      <!-- Lado direito: Conteúdo dinâmico -->
       <div class="card content-panel">
-        <!-- Tabela -->
         <div id="tabela-step" class="fade hidden">
           <h2>KPIs Cadastrados</h2>
           {% if dados is not none and not dados.empty %}
@@ -71,7 +70,6 @@
           <button id="btn-voltar-tabela" class="btn alt">Voltar</button>
         </div>
 
-        <!-- Power BI -->
         <div id="powerbi-embed" class="fade hidden">
           <h2>Dashboard Power BI</h2>
           <iframe title="ProjetoGestaoTI" width="100%" height="400"
