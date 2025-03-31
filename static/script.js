@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   const btnVerTabela = document.getElementById("btn-ver-tabela");
-  const btnVerPowerBI = document.getElementById("btn-ver-powerbi");
   const btnVoltarTabela = document.getElementById("btn-voltar-tabela");
   const btnVoltarPowerBI = document.getElementById("btn-voltar-powerbi");
   const btnLimparTabela = document.getElementById("btn-limpar-tabela");
@@ -14,21 +13,6 @@ document.addEventListener("DOMContentLoaded", () => {
       tabelaContainer.classList.remove("hidden");
       powerbiContainer.classList.add("hidden");
       formContainer.classList.add("hidden");
-    });
-  }
-
-  if (btnVerPowerBI) {
-    btnVerPowerBI.addEventListener("click", () => {
-      powerbiContainer.classList.remove("hidden");
-      tabelaContainer.classList.add("hidden");
-      formContainer.classList.add("hidden");
-
-      const iframe = powerbiContainer.querySelector("iframe");
-      if (iframe) {
-        const src = iframe.src;
-        iframe.src = "";
-        iframe.src = src;
-      }
     });
   }
 
